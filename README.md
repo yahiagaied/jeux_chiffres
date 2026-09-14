@@ -44,12 +44,7 @@ Pour exécuter ce script, vous devez avoir installé sur votre machine :
 3. **Lancer le jeu** avec Python :
    ```bash
    python main.py
-   ```
-
-## 🖼️ Aperçu
-
-![Interface principale](screenshot.png)
-
+ ```
 
 ## 📝 Licence
 Ce projet est open source et disponible sous licence [MIT](LICENSE).
